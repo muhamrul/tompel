@@ -1,0 +1,1 @@
+<?php $conn = mysqli_connect('localhost', 'root', '', 'tompel')or die('Error Connecting to MySQL DataBase'); ?>
